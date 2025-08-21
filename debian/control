@@ -1,0 +1,18 @@
+Source: kde-plasma-keybind-switch
+Section: universe/kde
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
+Homepage: https://samwhelp.github.io/kde-plasma-keybind-switch/
+Vcs-Browser: https://github.com/samwhelp/kde-plasma-keybind-switch
+Vcs-Git: https://github.com/samwhelp/kde-plasma-keybind-switch.git
+
+Package: kde-plasma-keybind-switch
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Kde Plasma / keybind-config
+ This is a kde plasma keybind-config collection created by samwhelp.
