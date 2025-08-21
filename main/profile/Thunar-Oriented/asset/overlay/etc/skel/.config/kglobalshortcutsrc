@@ -199,7 +199,7 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
-_launch=Alt+Shift+F,Meta+E,Dolphin
+_launch=Alt+Shift+G,Meta+E,Dolphin
 
 [org.kde.kate.desktop]
 _k_friendly_name=Kate
@@ -251,9 +251,9 @@ Toggle Keyboard Backlight=Keyboard Light On/Off\tAlt+|,Keyboard Light On/Off,Tog
 Turn Off Screen=none,none,Turn Off Screen
 _k_friendly_name=Power Management
 
-[pcmanfm-qt.desktop]
-_k_friendly_name=PCManFM-Qt File Manager
-_launch=Alt+Shift+G,none,PCManFM-Qt File Manager
+[thunar.desktop]
+_k_friendly_name=Thunar File Manager
+_launch=Alt+Shift+F,none,Thunar File Manager
 
 [plasmashell]
 _k_friendly_name=Plasma
